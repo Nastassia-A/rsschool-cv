@@ -1,17 +1,17 @@
-Nastassia Arkharava
+# Nastassia Arkharava
 
-Contacts
-phone: +375 (25) 759-55-67
-email: nastassiaarkharova@gmail.com
+### Contacts
+**phone**: +375 (25) 759-55-67
+**email**: nastassiaarkharova@gmail.com
 
-Summary
-My goal is to become a Front End Developer.
+### Summary
+*My goal is to become a Front End Developer.*
 
-Skills
+### Skills
 Basic knowledge of HTML, CSS, JavaScript, Git, GitHub
 
-Education
+### Education
 Belarusian State University of Informatics and Radioelectronics: Faculty of Radioengineering and Electronics
 
-English
+### English
 Basic
