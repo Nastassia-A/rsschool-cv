@@ -1,7 +1,7 @@
 # Nastassia Arkharava
 
 ### Contacts
-**phone**: +375 (25) 759-55-67
+**phone**: +375 (25) 759-55-67  
 **email**: nastassiaarkharova@gmail.com
 
 ### Summary
